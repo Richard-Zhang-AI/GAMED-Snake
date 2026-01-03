@@ -1,5 +1,8 @@
 #  GAMED-Snake
 
+New repository:
+https://github.com/SYSU-Guohw/Gamed-snake
+
 This is the code repository for the paper:
 > **GAMED-Snake: Gradient-aware Adaptive Momentum Evolution Deep Snake Model for Multi-organ Segmentation**
 >
