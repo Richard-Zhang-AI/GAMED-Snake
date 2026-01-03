@@ -1,6 +1,6 @@
 #  GAMED-Snake
 
-New repository:
+## New repository:
 https://github.com/SYSU-Guohw/Gamed-snake
 
 This is the code repository for the paper:
